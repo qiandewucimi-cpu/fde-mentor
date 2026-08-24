@@ -1,0 +1,4 @@
+interface:
+  display_name: "FDE Mentor"
+  short_description: "为初学者定制并验证可执行的 FDE 学习路径与每日课程"
+  default_prompt: "Use $fde-mentor 为我的能力起点和目标制定一份可执行的 FDE 学习路线。"
